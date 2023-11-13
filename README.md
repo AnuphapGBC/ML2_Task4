@@ -3,15 +3,16 @@ Task 4 - Movie Recommenders
 
 Task: Build a Movie Recommender system with the following methods:
 
-Popularity
-Content Filter
-Collaborative Filter
-Matrix Factorization
-Hybrid
+1. Popularity
+2. Content Filter
+3. Collaborative Filter
+4. Matrix Factorization
+5. Hybrid
+   
 Also, try the following libraries on the dataset:
 
-Turicreate
-Surprise
+1. Turicreate
+2. Surprise
 Dataset: MovieLens 20M 
 
 Source: https://grouplens.org/datasets/movielens/20m/
